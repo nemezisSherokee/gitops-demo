@@ -1,4 +1,4 @@
-= ArgoCD and GitOps Tutorial for OpenShift
+= ArgoCD and GitOps Tutorial for OpenShift/Kubernetes
 
 image::https://github.com/redhat-scholars/openshift-starter-guides/workflows/docs/badge.svg[docs]
 
